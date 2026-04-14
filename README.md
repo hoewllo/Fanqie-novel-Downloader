@@ -1,4 +1,15 @@
-# 番茄小说下载器
+# 番茄小说下载器(仅供学习)
+
+## ⚠️ 版权声明
+
+**本软件仅供学习研究使用，严禁用于商业用途或侵犯他人版权！**
+
+**重要提示：**
+1. 本软件下载的内容版权归原作者所有
+2. 请尊重作者劳动成果，仅用于个人学习研究
+3. 下载后请勿传播、出售或用于任何非学习用途
+4. 使用本软件即表示您同意遵守相关法律法规
+5. 详细使用条款请参阅 [LICENSE](LICENSE) 文件
 
 [![GitHub release](https://img.shields.io/github/release/POf-L/Fanqie-novel-Downloader.svg)](https://github.com/POf-L/Fanqie-novel-Downloader/releases)
 [![GitHub stars](https://img.shields.io/github/stars/POf-L/Fanqie-novel-Downloader.svg)](https://github.com/POf-L/Fanqie-novel-Downloader)
